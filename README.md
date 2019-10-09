@@ -9,3 +9,4 @@ La Programación Orientada a Objetos es un Pradigma de la Programación bastante
 ## Métodos
 Se tiene entonces una función que construye los objetos. Se tienen unas clases y unos atributos correspondientes a pakimanes y sus atributos. Con los objetos construídos, se mostrará en HTML cada uno de los pakimanes con sus atributos: Imágen, Puntos de Ataque, Puntos de Vida y Tipo. 
 
+Se me ha autorizado a publicar estas imágenes modificadas de los originales pertenecientes a Platzi.com, Inc.
